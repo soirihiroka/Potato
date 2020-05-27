@@ -7,7 +7,7 @@ If you fork this you can say that you forked a potato.
 
 ![potato](http://i.imgur.com/dRnvRZZ.jpg)
 
-I think this is the deepest fork that has been forked into the potato (? idk if that made sense but it did to me lol)
+# I think this is the deepest fork that has been forked into the potato (? idk if that made sense but it did to me lol)
 
 Forking potatoes is an ancient and well-mannered tradition.
 
