@@ -17,4 +17,12 @@ public class NotDeliciousException extends Exception {
     public NotDeliciousReason getReason() {
         return notDeliciousReason;
     }
+
+    @Override
+    public String toString() {
+        return "NotDeliciousException{" +
+                "reason=" + notDeliciousReason +
+                ", message=" + getMessage() +
+                '}';
+    }
 }
